@@ -10,3 +10,30 @@ CodeWars: [codewars.com/users/IlyaKozak](https://www.codewars.com/users/IlyaKoza
 ## Summary
 
 Web Developer (build is in progress :))
+
+## Skills
+
+◾◾◾◾◽ JavaScript
+◾◾◾◾◽ HTML/CSS  
+◾◾◾◽◽ SCSS, SASS, LESS  
+◾◾◾◽◽ GIT
+◾◾◾◾◽ Vusial Studio Code
+◾◾◾◽◽ React
+◾◾◽◽◽ Node.js
+◾◾◽◽◽ Python
+
+## Code samples
+
+**JavaScript:**
+
+```javascript
+function yack(fn, ...args) {
+  if (args.length >= fn.length) {
+    return fn(...args);
+  } else {
+    return function (...addArgs) {
+      return yack(fn, ...args, ...addArgs);
+    };
+  }
+}
+```
