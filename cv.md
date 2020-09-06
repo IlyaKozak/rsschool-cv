@@ -37,3 +37,21 @@ function yack(fn, ...args) {
   }
 }
 ```
+
+## Experience
+
+**Kapsch Telematic Services FLLC**
+_Change & Release Management Specialist_
+
+## Education
+
+**Belarusian State University of Informatics and Radioelectronics**
+_Master of Engineering - Images & Audio Processing_
+
+#### Courses:
+
+- [University of Helsinki - Full Stack Open](https://fullstackopen.com/en) _in progress_
+- [JavaScript: Understanding the Weird Parts](https://www.udemy.com/certificate/UC-7c003cd6-c37f-4a95-a5d2-eda065a96724/)
+- [Advanced JavaScript Concepts](https://www.udemy.com/certificate/UC-b63ab4b2-f0cb-43f8-a9bf-a2224ef322cc/)
+- [Object-oriented Programming in JavaScript](https://www.udemy.com/certificate/UC-702735d2-1563-4cde-b99b-d568d487eb2c/)
+- [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
