@@ -55,3 +55,7 @@ _Master of Engineering - Images & Audio Processing_
 - [Advanced JavaScript Concepts](https://www.udemy.com/certificate/UC-b63ab4b2-f0cb-43f8-a9bf-a2224ef322cc/)
 - [Object-oriented Programming in JavaScript](https://www.udemy.com/certificate/UC-702735d2-1563-4cde-b99b-d568d487eb2c/)
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+
+## English level is Advanced
+
+C2 (reading, listening) according to [EF Standard English Test](https://www.efset.org/cert/dGJeHf)
