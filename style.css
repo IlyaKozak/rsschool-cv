@@ -1,0 +1,181 @@
+/* COMMON */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.section {
+  margin-bottom: 80px;
+}
+
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 0 12px;
+  /* border: 1px solid black; */
+}
+
+.title {
+  color: #222222;
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: -1px;
+  text-transform: none;
+  margin-bottom: 40px;
+}
+
+/* .COMMON */
+
+/* FIRST-SCREEN */
+
+.personal-photo {
+  float: right;
+  height: 200px;
+  border-radius: 50%;
+  border: 2px solid #ce462b;
+  box-shadow: 0px 0px 20px #00000020;
+}
+
+.main-title {
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 65px;
+  font-style: normal;
+  letter-spacing: -3px;
+  margin: 60px 0 20px;
+}
+
+.about {
+  color: #444444;
+  font-size: 18px;
+  line-height: 29px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+/* .FIRST-SCREEN */
+
+/* CONTACTS */
+
+.contacts {
+  font-size: 18px;
+}
+
+.contacts__list {
+  list-style: none;
+}
+
+.contact {
+  padding: 5px 0;
+}
+
+.contact__icon {
+  margin-right: 10px;
+  color: #ce462b;
+}
+
+/* .CONTACTS */
+
+/* SUMMARY */
+
+.summary {
+  font-size: 18px;
+}
+
+/* .SUMMARY */
+
+/* SKILLS */
+
+.skills {
+  font-size: 18px;
+}
+
+.skills-type {
+  margin-bottom: 25px;
+}
+
+.skills__list {
+  list-style: none;
+}
+
+.skills__title {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.skills__progress {
+  font-size: 40px;
+  color: #ce462b;
+}
+
+/* .SKILLS */
+
+/* EXPERIENCE */
+
+.experience {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.experience__title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #ce462b;
+  margin-bottom: 15px;
+}
+
+/* .EXPERIENCE */
+
+/* EDUCATIONS */
+
+.education {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.education__title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #ce462b;
+  margin-bottom: 15px;
+}
+
+.education__courses {
+  list-style-type: none;
+}
+
+.education__course {
+  text-decoration: none;
+}
+
+.education__course i {
+  font-size: 1rem;
+}
+
+.education__course:visited {
+  color: #222222;
+}
+
+/* .EDUCATIONS */
+
+/* ENGLISH */
+
+.english {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.english__title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #ce462b;
+  margin-bottom: 15px;
+}
+
+/* .ENGLISH */
