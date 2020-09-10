@@ -13,14 +13,14 @@ Web Developer (build is in progress :))
 
 ## Skills
 
-◾◾◾◾◽ JavaScript  
-◾◾◾◾◽ HTML/CSS  
-◾◾◾◽◽ SCSS, SASS, LESS  
-◾◾◾◽◽ GIT  
-◾◾◾◾◽ Vusial Studio Code  
-◾◾◾◽◽ React  
-◾◾◽◽◽ Node.js  
-◾◾◽◽◽ Python
+&#9724;&#9724;&#9724;&#9724;&#9723; JavaScript  
+&#9724;&#9724;&#9724;&#9724;&#9723; HTML/CSS  
+&#9724;&#9724;&#9724;&#9723;&#9723; SCSS, SASS, LESS  
+&#9724;&#9724;&#9724;&#9723;&#9723; GIT  
+&#9724;&#9724;&#9724;&#9724;&#9723; Vusial Studio Code  
+&#9724;&#9724;&#9724;&#9723;&#9723; React  
+&#9724;&#9724;&#9723;&#9723;&#9723; Node.js  
+&#9724;&#9724;&#9723;&#9723;&#9723; Python
 
 ## Code samples
 
@@ -31,7 +31,7 @@ function yack(fn, ...args) {
   if (args.length >= fn.length) {
     return fn(...args);
   } else {
-    return function (...addArgs) {
+    return function(...addArgs) {
       return yack(fn, ...args, ...addArgs);
     };
   }
